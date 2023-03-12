@@ -1,0 +1,85 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "adm@adm.com",
+      "password": "adm123"
+    },
+    {
+      "id": 2,
+      "email": "adm2@adm.com",
+      "password": "adm1234"
+    }
+  ],
+  "series": [
+    {
+      "url": "https://www.netflix.com/title/81350429",
+      "name": "I Care a Lot",
+      "contentType": "Movie",
+      "description": "A court-appointed legal guardian defrauds her older clients and traps them under her care. But her latest mark comes with some unexpected baggage.",
+      "contentRating": "18+",
+      "genre": "US Movies",
+      "poster": "https://occ-0-1492-1007.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABTnDrXenR7tkDPdtvmVbm44VoVh2WZmrDogXjgNVd9B9cIrrj3D-pQPVO-tj2EhRTwCWztGtzM-pPdeP1FlTH9qS7gLI.jpg?r=ccb",
+      "formattedDuration": "1h 59m",
+      "releasedDate": "2021-2-19",
+      "actors": "Rosamund Pike, Peter Dinklage, Eiza González, Dianne Wiest, Chris Messina, Isiah Whitlock Jr., Macon Blair, Alicia Witt, Damian Young",
+      "director": "J Blakeson",
+      "creator": "",
+      "audio": "English - Audio Description, English [Original]",
+      "subtitle": "English, Hindi",
+      "availableForOffline": "Available to download",
+      "numberOfSeasons": "",
+      "seasonStartDate": "",
+      "source": "Netflix",
+      "sourceLink": "https://netflix.com",
+      "id": "bbc71932-fc79-51aa-bf83-023c2c5db97c",
+      "scrapedAt": "05/03/2022 14:51:37"
+    },
+    {
+      "url": "https://www.netflix.com/title/81083626",
+      "name": "Midnight Mass",
+      "contentType": "TVSeries",
+      "description": "The arrival of a charismatic young priest brings glorious miracles, ominous mysteries and renewed religious fervor to a dying town desperate to believe.",
+      "contentRating": "16+",
+      "genre": "TV Mysteries",
+      "poster": "https://occ-0-1492-1007.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABc9P8ku8VMocCHKA1sMsqUQRtQAIvGHSsbV1NdCQJeeapuBP3M_B9nS0D_k4MjpoG_uYAoHy3qoo53yrSokVIYRTpSKY.jpg?r=a3e",
+      "formattedDuration": "",
+      "releasedDate": "2021-9-24",
+      "actors": "Kate Siegel, Zach Gilford, Hamish Linklater, Henry Thomas, Kristin Lehman, Samantha Sloyan, Igby Rigney, Rahul Kohli, Annarah Cymone, Annabeth Gish, Alex Essoe, Rahul Abburi, Matt Biedel, Michael Trucco, Crystal Balint, Louis Oliver",
+      "director": "Mike Flanagan",
+      "creator": "Mike Flanagan",
+      "audio": "",
+      "subtitle": "",
+      "availableForOffline": "Available to download",
+      "numberOfSeasons": 1,
+      "seasonStartDate": "2021-9-24",
+      "source": "Netflix",
+      "sourceLink": "https://netflix.com",
+      "id": "d452167a-817d-5526-9070-d7fc23e8ff67",
+      "scrapedAt": "05/03/2022 14:51:38"
+    },
+    {
+      "url": "https://www.netflix.com/title/80180171",
+      "name": "Kingdom",
+      "contentType": "TVSeries",
+      "description": "While strange rumors about their ill king grip a kingdom, the crown prince becomes their only hope against a mysterious plague overtaking the land.",
+      "contentRating": "18+",
+      "genre": "Horror TV Serials",
+      "poster": "https://occ-0-1492-1007.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABU9bHervQ-EtmiZVt8zsrEhQobTSgzXGHPmHaap3Xg8K7Nk5yhuD3uLDBeBBcoqFrPlyvlzaqxPGe7KTisTxFotu0lEJ.jpg?r=e6e",
+      "formattedDuration": "",
+      "releasedDate": "2019-1-25",
+      "actors": "Ju Ji-hoon, Ryu Seung-ryong, Bae Doona, Kim Sang-ho, Kim Sung-kyu, Jun Suk-ho, Kim Hye-jun, Park Byung-eun, Huh Joon-ho",
+      "director": "",
+      "creator": "Kim Eun-hee, Kim Seong-hun, Park Inje",
+      "audio": "",
+      "subtitle": "",
+      "availableForOffline": "Available to download",
+      "numberOfSeasons": 2,
+      "seasonStartDate": "2019-1-25",
+      "source": "Netflix",
+      "sourceLink": "https://netflix.com",
+      "id": "ef1d6583-df37-5e68-b1aa-348697b6f302",
+      "scrapedAt": "05/03/2022 14:51:38"
+    }
+  ]
+}

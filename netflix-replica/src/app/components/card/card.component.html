@@ -1,0 +1,19 @@
+<div class="container">
+  <div
+    (click)="navigateToSerie(serie.id)"
+    (mouseover)="show = true"
+    (mouseout)="show = false"
+    class="card"
+    class="card"
+    style="width: 18rem"
+  >
+    <img [src]="serie.poster" class="card-img-top" alt="serie-img" />
+    <div class="card-body">
+      <h5 class="card-title">{{ serie.name }}</h5>
+      <p class="card-text">
+        {{ serie.description }}
+      </p>
+      <a class="btn btn-primary">Assista agora</a>
+    </div>
+  </div>
+</div>
